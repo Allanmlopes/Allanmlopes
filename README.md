@@ -8,6 +8,7 @@
 
 ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=Allanmlopes&show_icons=true&theme=tokyonight)
 
+
 ### 🖳 Abaixo algumas das tecnologias que eu utilizo 🖳
 
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
