@@ -7,7 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+9rEttYT412o2ZmEx)
 
 ![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=Allanmlopes&show_icons=true&theme=tokyonight)
-
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Allanmlopes&show_icons=true&theme=tokyonight)
 
 ### 🖳 Abaixo algumas das tecnologias que eu utilizo 🖳
 
