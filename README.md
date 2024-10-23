@@ -7,8 +7,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+9rEttYT412o2ZmEx)
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Allanmlopes&show_icons=true&theme=tokyonight" alt="Allan GitHub stats" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanmlopes&show_icons=true&theme=tokyonight&layout=compact" alt="Allan GitHub stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Allanmlopes&show_icons=true&theme=tokyonight" alt="Allan GitHub stats" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allanmlopes&show_icons=true&theme=tokyonight&layout=compact" alt="Allan GitHub stats" height="150px" />
 </div>
 
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
